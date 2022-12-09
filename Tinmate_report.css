@@ -1,0 +1,78 @@
+.rp_user {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'itim';
+    
+}
+.rp_sub{
+    text-align: center;
+    font-size: 30px;
+    color: grey;
+    font-family: 'itim';
+}
+.option_1{
+    font-size: 40px;
+    font-family: 'itim';
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-left: 300px;
+    height: 90px;
+}
+.option_1:hover{
+    background-color: #f10222;
+}
+.option_1:active{
+    background-color: #F10222;  
+}
+.option_2{
+    font-size: 40px;
+    font-family: 'itim';
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-left: 200px;
+    height: 90px;
+}
+.option_2:hover{
+    background-color: #f10222;
+}
+.option_2:active{
+    background-color: #F10222;  
+}
+.option_3{
+    font-size: 40px;
+    font-family: 'itim';
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-left: 300px;
+    height: 90px;
+    margin-top: 40px;
+}
+.option_3:hover{
+    background-color: #f10222;
+}
+.option_3:active{
+    background-color: #F10222;  
+}
+.option_4{
+    font-size: 40px;
+    font-family: 'itim';
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: 200px;
+    height: 90px;
+}
+.option_4:hover{
+    background-color: #f10222;
+}
+.option_4:active{
+    background-color: #F10222;  
+}
+.bio{
+font-size: 30px;
+position: absolute;
+
+margin-top: -80px;
+margin-left: 290px;
+font-family: "itim";
+} 
